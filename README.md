@@ -18,3 +18,5 @@ Will be checked into remote github repository.
 ##Adding copyright access
 
 ##Just for FUN
+
+##FAST_FORWARD_BRANCH
