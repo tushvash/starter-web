@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 Will be checked into remote github repository.
 
 #For local github repository
+
+#For Staging area
+
+#for Working directory
