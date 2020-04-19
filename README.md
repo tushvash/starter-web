@@ -5,3 +5,6 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+
+#Description
+Will be checked into remote github repository.
