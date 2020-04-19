@@ -14,3 +14,5 @@ Will be checked into remote github repository.
 #For Staging area
 
 #for Working directory
+
+##Adding copyright access
