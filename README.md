@@ -22,3 +22,5 @@ Will be checked into remote github repository.
 ##Just for FUN
 
 ##FAST_FORWARD_BRANCH
+
+##COPYRIGHT
