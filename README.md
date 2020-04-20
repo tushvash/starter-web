@@ -24,3 +24,4 @@ Will be checked into remote github repository.
 ##FAST_FORWARD_BRANCH
 
 ##COPYRIGHT
+all rights reserved.
